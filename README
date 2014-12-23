@@ -1,0 +1,8 @@
+Function to run simulations is pnetcn_NewPhenology() in pnetcn_NewPhenology.R
+
+Template for importing climate data and running simulations is in 
+RunSimulations2014-06-11.R
+
+Current template requires correctly named subdirectories with correctly
+formatted AmeriFlux and Daymet data.  See RunSimulations2014-06-11.R for
+details.
